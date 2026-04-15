@@ -6,15 +6,24 @@ I mainly created this to test my Python skill at my current level,and it was fun
 
 This is a very small and expiremental language with minimal syntax,but I will explain to you nonetheless.
 
-First off,the language starts off by asking you to set a variable 'x'.
-Then,it asks you if you want to print something.
+To get started,you begin by typing one of these four:
 
-In order to print in Wy,you have to write the following:
-log<'....'>
-Where the four dots are your text.
-If you write in the place of the four dots 'x',it will automatically print your variable value.
+1)variable
+To set variables.
+It asks you to name one variable and to set its value.
 
-And finally,it asks you to check the value of x.
-For example,if you have set x to 5,and say x is 5,then it will output True.Otherwise,it will output False.
+2)log
+To print to the console.
+You write log<'..'> for text,and just log<...> for variables.
 
-Thats all of the Wy language.It has printing,booleans,and variables.The fundementals of any language.
+3)boolean
+You type in the following:
+Say my variable is called "x" and the value is 20.
+You type in x?=20.This will get the output "True".Otherwise,it will output False.
+
+4)maths
+Self-explanatory.You type in basic arithmetic and it gives you the result.No log<> needed,just write away.
+
+So that is all of Wy!It has the basics of any programming language:variables,printing,booleans and mathematics.
+
+Have fun coding in this new language!
