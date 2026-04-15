@@ -1,6 +1,10 @@
+![image alt](https://github.com/schrodingerbug/wylanguage/blob/6bfe2e72a9d9ca38adf5a12019d08f6b3319f25b/logo.png)
+
 Welcome to the Wy Programming Language!
 
-This is a very small language with minimal syntax,but I will explain to you nonetheless.
+I mainly created this to test my Python skill at my current level,and it was fun to create.
+
+This is a very small and expiremental language with minimal syntax,but I will explain to you nonetheless.
 
 First off,the language starts off by asking you to set a variable 'x'.
 Then,it asks you if you want to print something.
