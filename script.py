@@ -1,6 +1,8 @@
+#Variable variables (cliche)
 var = None
 var_name = None
 
+#Functions of Wy
 def variable():
   global var, var_name
   var_name = input("Name your variable:")
@@ -25,6 +27,7 @@ def maths():
     arithmetic = input(">>")
     print(eval(arithmetic))
 
+#Command Loop
 while True:
     command = input(">>")
     if command == "variable":
